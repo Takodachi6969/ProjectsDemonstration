@@ -1,0 +1,10 @@
+Animal,Extinction Frame,SSIM Index,Final state check
+Orbium unicaudatus,-1,0.9831810063587677,stable
+Orbium unicaudatus ignis,56,,
+Orbium bicaudatus,-1,0.9847870468489016,stable
+Orbium bicaudatus ignis,67,,
+Gyrorbium gyrans,-1,0.9870748287540931,stable
+Gyrorbium labans,-1,0.1711303198854534,soup
+Vagorbium vagus,-1,0.2159785994461734,soup
+Synorbium,-1,0.9703385759030827,stable
+Tetrasynorbium?,-1,0.8698241714452557,stable

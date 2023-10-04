@@ -1,0 +1,5 @@
+personal use script
+EKYbk2uxVIhb7FqBwArQcA
+
+secret	Eq0AckJSclfNMt9yeII_h7jks60bCQ
+name Anxious_home2741

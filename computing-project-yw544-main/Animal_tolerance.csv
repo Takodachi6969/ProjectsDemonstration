@@ -1,0 +1,318 @@
+Animal,tolerance
+Orbium unicaudatus,0.39
+Orbium unicaudatus ignis,0.22
+Orbium bicaudatus,0.51
+Orbium bicaudatus ignis,0.03
+Gyrorbium gyrans,0.11
+Gyrorbium labans,0.02
+Vagorbium vagus,0.01
+Synorbium,0.26
+Tetrasynorbium?,0.17
+Parorbium dividuus,0.25
+Parorbium dividuus pedes,0.14
+Parorbium adhaerens,0.27
+Triorbium(?),0.2
+Scutium solidus,0.06
+Scutium valvatus,0.04
+Scutium serratus fluens,0.37
+Scutium serratus vagus,0.35
+Scutium serratus saliens,0.56
+Scutium serratus solidus,0.35
+Scutium serratus fluens,0.37
+Scutium serratus fluens,0.37
+Discutium solidus,0.04
+Discutium valvatus,0.03
+Discutium serratus,0.05
+Discutium serratus,0.05
+Triscutium solidus,0.05
+Triscutium valvatus centrale,0.05
+Triscutium valvatus laterale,0.03
+Triscutium serratus valvatus centrale,0.11
+Triscutium serratus valvatus laterale,0.12
+Tetrascutium solidus,0.05
+Tetrascutium valvatus,0.06
+Pentascutium solidus,0.06
+Pentascutium valvatus,0.06
+Hexascutium,0.06
+Heptascutium,0.07
+Octascutium,0.09
+Octascutium obliquus,0.06
+Nonascutium,0.07
+Decascutium,0.08
+Dodecascutium,0.1
+Tetradecascutium,0.11
+Tetracosascutium,0.24
+Catenoscutium bidirectus,0.0
+Gyropteron arcus,0.02
+Gyropteron cavus,0.02
+Gyropteron serratus velox,0.39
+Gyropteron serratus turbulentus,0.2
+Gyropteron serratus velox,0.39
+Gyropteron serratus velox,0.39
+Synptera cavus saliens,0.39
+Synptera cavus pedes,0.12
+Synptera sinus pedes,0.28
+Pyroscutium arcus pedes,0.06
+Pyroscutium ambiguus,0.04
+Synptera serratus arcus pedes,0.21
+Synptera serratus cavus labens,0.39
+Synptera serratus cavus saliens,0.3
+Synptera serratus sinus labens,0.32
+Synptera serratus sinus pedes,0.24
+Pyroscutium ambiguus serratus,0.05
+Paraptera arcus labens,0.2
+Paraptera arcus saliens,0.22
+Paraptera arcus saliens ignis,0.22
+Paraptera arcus pedes,0.15
+Paraptera cavus labens,0.32
+Paraptera cavus salien,0.33
+Paraptera cavus pedes,0.32
+Paraptera cavus furiosus,0.27
+Paraptera orbis pedes,0.27
+Paraptera orbis furiosus,0.21
+Paraptera sinus labens,0.24
+Paraptera sinus pedes,0.24
+Paraptera ambiguus,0.13
+Paraptera serratus arcus saliens,0.24
+Pentapteryx arcus labens,0.17
+Pentapteryx arcus saliens,0.19
+Pentapteryx arcus pedes,0.23
+Pentapteryx cavus labens,0.21
+Pentapteryx cavus saliens,0.29
+Pentapteryx cavus pedes,0.23
+Pentapteryx cavus furiosus,0.27
+Pentapteryx arcus valvatus,0.13
+Pentapteryx serratus cavus labens,0.13
+Hexapteryx arcus labens,0.17
+Hexapteryx cavus labens,0.24
+Hexapteryx serratus cavus labens,0.21
+Heptapteryx arcus labens,0.17
+Heptapteryx cavus labens,0.21
+Heptapteryx cavus labens cunctans,0.22
+Heptapteryx serratus cavus labens,0.08
+Heptapteryx serratus liquefaciens,0.19
+Octapteryx arcus labens,0.15
+Octapteryx cavus labens,0.24
+Octapteryx serratus cavus labens,0.15
+Nonapteryx arcus labens,0.14
+Nonapteryx cavus labens,0.17
+Nonapteryx serratus cavus labens,0.1
+Nonapteryx serratus sinus labens,0.07
+Decapteryx arcus labens,0.16
+Decapteryx cavus labens,0.19
+Decapteryx serratus sinus labens,0.1
+Tridecapteryx arcus valvatus,0.2
+Tetracosapteryx arcus labens,0.31
+Tetracosapteryx cavus labens,0.26
+Hexacaudopteryx,0.05
+Hexacaudopteryx serratus cavus labens,0.06
+Octacaudopteryx serratus cavus labens,0.04
+Decacaudopteryx serratus sinus labens,0.05
+Catenopteryx cyclon,0.0
+Catenopteryx cyclon scutoides,0.0
+Catenopteryx cinguli,0.56
+Catenopteryx serratus cinguli,0.11
+Helicium solidus,0.05
+Helicium arcus saliens,0.15
+Helicium arcus saliens ignis,0.04
+Helicium arcus pedes,0.13
+Helicium cavus pedes,0.07
+Helicium serratus ocellus,0.23
+Helicium serratus velox,0.22
+Helicium serratus turbulentus,0.25
+Helicium serratus turbulentus,0.25
+Helicium serratus turbulentus,0.25
+Pentahelicium solidus,0.06
+Pentahelicium ignis,0.1
+Pentahelicium serratus limus,0.06
+Heptahelicium solidus,0.07
+Heptahelicium ignis,0.07
+Heptahelicium serratus limus,0.08
+Nonahelicium solidus,0.04
+Nonahelicium ignis,0.04
+Nonahelicium serratus,0.03
+Tetrahelicium(?),0.0
+Tetrahelicium serratus,0.11
+Tetrahelicium serratus fractus,0.25
+Tetrahelicium serratus turbulentus,0.25
+Hexahelicium solidus,0.06
+Hexahelicium ignis,0.09
+Hexahelicium serratus,0.09
+Octahelicium,0.03
+Octahelicium serratus,0.11
+Decahelicium,0.05
+Decahelicium serratus,0.02
+Dodecahelicium limus,0.05
+Catenohelicium monospirae,0.04
+Catenohelicium bispirae vacuoides,0.01
+Catenohelicium bispirae scutoides,0.01
+Circium lithos apertus,0.34
+Circium lithos opertus,0.24
+Circium ventilans,0.38
+Circium ventilans tenuis,0.53
+Circium ventilans lateralis,0.07
+Circium ventilans scintillans,0.04
+Circium ventilans cumulans,0.1
+Circium rupturus,0.0
+Discutium pachus,0.15
+Trihelicium pachus,0.03
+max-fleet,0.25
+Aerogeminium volitans,0.19
+Aerogeminium ambiguus,0.29
+Aerogeminium quietus,0.47
+Aerogeminium labens,0.37
+Hydrogeminium limus,0.46
+Hydrogeminium natans,0.34
+Hydrogeminium labens,0.3
+Spinogeminium solidus,0.25
+Spinogeminium limus,0.25
+Gyrogeminium velox,0.45
+Gyrogeminium tardus,0.44
+Gyrogeminium serratus,0.3
+Circogeminium ventilans,0.11
+Kronium solidus,0.23
+Kronium tardus,0.39
+Kronium vagus,0.11
+Kronium saliens,0.34
+Kronium limus,0.62
+Kronium dividuus,0.17
+Kronium solidus,0.23
+Kronium solidus,0.23
+Kronium saliens,0.34
+Gyrokronium,0.2
+Argentokronium,0.24
+Ferrokronium solidus,0.61
+Ferrokronium valvatus centrale,0.56
+Ferrokronium valvatus laterale,0.53
+Ferrokronium tardus,0.55
+Ferrokronium circularis,0.42
+Ferrokronium solidus,0.61
+Ferrokronium saliens,0.61
+Aurokronium arcus,0.12
+Aurokronium cavus,0.17
+Synkronium arcus,0.09
+Synkronium cavus,0.23
+Florakronium arcus,0.45
+Florakronium cavus,0.34
+Allikronium,0.08
+Parakronium arcus,0.13
+Parakronium cavus,0.18
+Pentakronium arcus,0.1
+Pentakronium cavus,0.15
+Hexakronium arcus,0.1
+Hexakronium cavus,0.1
+Heptakronium arcus,0.07
+Tetracaudokronium cavus,0.13
+Pentacaudokronium cavus,0.14
+Hexacaudokronium cavus,0.12
+Catenokronium cinguli,0.05
+Tetravolvium,0.04
+Hexavolvium,0.07
+Hexavolvium resiliens,0.18
+Hexavolvium ulterior,0.24
+Crucium arcus,0.43
+Crucium arcus valvatus,0.25
+Crucium arcus anulus,0.43
+Crucium arcus vagus,0.28
+Crucium arcus vagus,0.28
+Crucium arcus gyrans,0.4
+Crucium cavus,0.5
+Crucium cavus anulus,0.46
+Crucium crux,0.51
+Crucium crux rotans,0.6
+Crucium crux ventilans,0.5
+Crucium crux ventilans,0.5
+Crucium,0.65
+Crucium,0.65
+Triradium lithos,0.61
+Triradium gyrans,0.52
+Triradium rotans,0.69
+Triradium ventilans,0.4
+Triradium limus,0.72
+Hexaradium solidus,0.48
+Hexaradium valvatus,0.45
+Hexaradium lithos,0.43
+Tetrastrium rotans,0.51
+Astrium solidus,0.65
+Astrium limus,0.49
+Astrium rotans,0.58
+Astrium scintillans,0.51
+Astrium inversus,0.52
+Astrium reversus,0.63
+Astrium solidus,0.65
+Astrium currens,0.83
+Astrium rotans,0.58
+Astrium rotans,0.58
+Astrium nausia,0.61
+Hexastrium,0.6
+Hexastrium rotans,0.51
+Hexastrium,0.6
+Quadrium solidus,0.63
+Quadrium minus,0.37
+Quadrium gyrans,0.69
+Quadrium vagus,0.46
+Cumulocircium lithos,0.24
+Cumulocircium scintillans,0.01
+Cumulocircium scintillans,0.01
+Cumulocircium lithos,0.24
+Cumulocircium scintillans,0.01
+Cumulocircium lithos,0.24
+Dicircium inversus,0.36
+Dicircium rotans,0.39
+Dicircium limus,0.31
+Tricircium inversus,0.22
+Tricircium rotans,0.34
+Tricircium torquens,0.38
+Tricircium vagus,0.24
+Tricircium rotans,0.34
+Tetrcircium torquens,0.4
+Tetrcircium lithos,0.46
+Pentcircium rotans,0.59
+Pentcircium inversus,0.39
+Hexcircium inversus,0.14
+Heptcircium lithos,0.57
+Heptcircium ventilans,0.1
+Octcircium lithos,0.55
+Octcircium ventilans,0.37
+Deccircium lithos,0.56
+Hexadentium rotans,0.14
+Hexadentium scintillans,0.11
+Hexadentium torquens,0.15
+Heptadentium rotans,0.15
+Heptadentium scintillans,0.09
+Octadentium rotans,0.13
+Octadentium scintillans,0.11
+Octadentium alternatus,0.05
+Nonadentium rotans,0.1
+Decadentium rotans bioculi,0.07
+Decadentium rotans trioculi,0.21
+Decadentium rotans,0.27
+Decadentium rotans,0.27
+Decadentium vagus,0.42
+Decadentium volubilis,0.56
+Undecadentium rotans,0.48
+Undecadentium scintillans,0.42
+Dodecadentium rotans,0.4
+Dodecadentium scintillans,0.38
+Dodecadentium nausia,0.14
+Tridecadentium rotans,0.33
+Bifolium lithos,0.33
+Bifolium lithos limus,0.31
+Tetrafolium lithos,0.43
+Pentafolium lithos,0.57
+Pentafolium incarceratus,0.67
+Pentafolium incarceratus,0.67
+Hexafolium incarceratus,0.45
+Octafolium lithos,0.78
+Octafolium lithos limus,0.82
+Octafolium tardus,0.49
+Octafolium lithos,0.78
+Dodecafolium lithos,0.22
+Dodecafolium ventilans,0.6
+Heptafolium nausia,0.43
+Nonafolium lithos,0.28
+Nonafolium rotans,0.3
+Dodecafolium lithos,0.22
+Tridecafolium lithos,0.19
+Bug (smaller),0.03
+Bug (bigger),0.02
