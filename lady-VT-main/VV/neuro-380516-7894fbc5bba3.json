@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "neuro-380516",
+  "private_key_id": "7894fbc5bba35fb577a6cb0a1886be7747b1a827",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCpGHKWIBTuuowa\n3zJMq0q9H+XFKUJne7mjPJzzOYTrD/+TZhdEk6z/dx7vj+TDLAg4gAJwpfS5cZu+\nfqfjk2E0IdZjA3EvuhIhOyhPB1YU59qhMf4pbWH8dJr255Jors867qpFup/i8s2G\nmKiwgZ8zSGbBUCu2ho5MPoAKEJjgWVzZwM16mGqR/f74Cnso4t+iF1IH8tnCFJk/\nA0GtTYKwkJmE5ScTw6tm+10T9TQ/LZJukHc/InKu+L8sdqevfepPuhHxAE1Ezo7t\nY0AoKgW2/7TVvTsRmO/on9Wyfgte2JIBFcL57AuZxwoB/3ZGFfJYb45PTABua++I\nPrDYgWerAgMBAAECggEAEy6FHnHojfrha9GdOMScR39NJvl64UGlbwFa4zMc2Iwf\nDOR23T5MpfTTBeVH07q0pVwiwA6Ysp9S8IrDlsr1gDQacsRFhwl6Ma+D72XApmx1\nXksihCaMCAGzloXxvihJCmwKgBB0lLUVtXVZ0B6peugf/UE6mYutVrQm/X1L1PR+\n5ZsLb4a6Z6HyRA9QwcnJTouYhOVRkX5Vm20H1Nl/RBBT9lQHKJW/XkvLBCzUij1Y\n+0o6GxlUF65npueHFYxd8e1h7U91hVr5jmT5iSIYCtekow9sz9XtXXxK8KNLFDv2\nALMoT7n9bIXNrOnctH+sTEwom3IBlqtJjda/kKFksQKBgQDbp3hvRFjKM1UdQtcB\nrWi64TceVa4Daz0UvJE/SLvN1U9+UC4wXU1serlW/eHrzrw2L3yfDOyfoaeSWc7a\nJa2xUHVMWf4UiBOyTurASCidrnkruF3RQMx2BX3laQZNasscjODXNHysxVJmbd8T\niPZP0eqiv+CSNjLsDsPew/wi+QKBgQDFE1D5rU6bo8gAtd6oCN7raHNUCWUEkZdN\n/vljAnbphb5hGPXnwiZnjfJjYfyIBscVfsw3yZgAxQhhPreezsJixJeGFGVDEvXr\nqnJ8v8x5WEDD/z13CoU/GrAPOSwKgbpBj5OvbCWJdyzhpsKcHiLsteiljm8xupME\nvoi9yPXkwwKBgCbsFRY6WTVzRSjLOEguzzkWQWsZqZ0neopbI63AGK9Plid+08B0\nOAz57i+xC0B6wLUlUwLoCmH7BjOTwGi9dnrOFAr0g2Zl+n+FJmnuH2xZh1Us9Uro\nHZLoRDfLlXdQbi9f81OPFGyVBpXp8DaI9YSNYPN35rZh7kIQF7s4pUwZAoGBAJ67\najNQBcqSZls8IXSSgIp3fLypPHYrlgS6Y7/9ki2RDcBDTH05AZnS2PJ3T+F4JA4K\nLQ6aDxY/nPpGe7srqaHH2ouiDdWyheUlSkV0bosmLDQxdx5UmPI02q3ITNLBnnWD\n4V4f6zQHi1zM5l68X0DtW89NI/6X2iauGJFUNcnlAoGAGXzpTotQl1AcrXzL6ymg\nePCioN2paonFr/xHpKho/qj5WUhoe3PRuJO8fU9wJvM4nNzeahypN5fmL3p4J9it\n+zyHaXufRa+BK4neRvvxREEuyErthofqRfpevZZ8+JJYGaYMS8t3pU6aR1DYnm5t\nqlzQzOkA1jk7XYByHsyVzbM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "neuro-chat-bot@neuro-380516.iam.gserviceaccount.com",
+  "client_id": "101864654149553861644",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/neuro-chat-bot%40neuro-380516.iam.gserviceaccount.com"
+}
